@@ -15,11 +15,11 @@ class SecurityResearcher:
     def __init__(self):
         self.name = "Atlas"
         self.role = "Web Security Enthusiast"
-        self.interests = ["Web Exploitation", "CTF Challenges", "Math"]
+        self.interests = ["Web Exploitation", "CTF Challenges", "Math sadly..."]
     
     
     def say_hi(self):
-        print("Thanks for dropping by !")
+        print("No OSINT pls i hate my middle name")
 
 me = SecurityResearcher()
 me.say_hi()
@@ -27,22 +27,8 @@ me.say_hi()
 
 🔐 **Focus Areas:** Bug bounty • Networks • CTF competitions • Development
 
-🎯 **Current Quest:** Hunting bugs and climbing CTF leaderboards
+🎯 **Current Quest:** Hunting bugs (when i actually found one) and climbing CTF leaderboards
 
----
-
-### 🛠️ Arsenal
-
-```bash
-# Languages
-languages=("C" "Python" "Go" "PHP" "JavaScript" "Bash")
-
-# Web Stack
-web_tech=("HTML/CSS" "JavaScript" "PHP")
-
-# Security Tools
-security_tools=("Caido / Burpsuite" "Ffuf" "GDB" "Ghidra" "Wireshark")
-```
 
 <div align="center">
 
@@ -73,24 +59,11 @@ security_tools=("Caido / Burpsuite" "Ffuf" "GDB" "Ghidra" "Wireshark")
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Qtlas&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7A1&icon_color=00F7A1&text_color=FFFFFF" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qtlas&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7A1&text_color=FFFFFF" alt="Top Languages" height="170"/>
-
 </div>
 
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Qtlas&theme=radical&hide_border=true&background=0D1117&stroke=00F7A1&ring=00F7A1&fire=FF6B6B&currStreakLabel=00F7A1" alt="GitHub Streak"/>
-
-</div>
-
----
-
-### 🏆 Recent Activity
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Qtlas&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
