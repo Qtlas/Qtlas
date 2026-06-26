@@ -25,9 +25,9 @@ me = SecurityResearcher()
 me.say_hi()
 ```
 
-🔐 **Focus Areas:** Bug bounty • Networks • CTF competitions • Development
+**Focus Areas:** Bug bounty • Networks • CTF competitions • Development
 
-🎯 **Current Quest:** Hunting bugs (when i actually found one) and climbing CTF leaderboards
+**Current Quest:** Hunting bugs (when i actually found one) and climbing CTF leaderboards
 
 
 <div align="center">
