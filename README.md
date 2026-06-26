@@ -8,7 +8,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### I - About Me
 
 ```python
 class SecurityResearcher:
@@ -29,6 +29,7 @@ me.say_hi()
 
 **Current Quest:** Hunting bugs (when i actually found one) and climbing CTF leaderboards
 
+### II - Languages & tools
 
 <div align="center">
 
@@ -45,7 +46,7 @@ me.say_hi()
 
 ---
 
-### 🎮 CTF Platforms
+### III - CTFs stats
 
 <div align="center">
 
@@ -55,7 +56,7 @@ me.say_hi()
 
 ---
 
-### 📊 GitHub Stats
+### IV - Github stats
 
 <div align="center">
 
@@ -69,7 +70,7 @@ me.say_hi()
 
 ---
 
-### 📫 Connect
+### V - Connect
 
 <div align="center">
 
