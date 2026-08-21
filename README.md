@@ -102,7 +102,7 @@ me.say_hi()
 
 - [CTF](https://github.com/Qtlas/CTF): my write-ups from CTF challenges I solved.
 - [Exercism-backup](https://github.com/Qtlas/Exercism-backup) and [Leetcode_solutions](https://github.com/Qtlas/Leetcode_solutions): my solutions to algo problems.
-- [side-projects](https://github.com/Qtlas/side-projects): various school and personal projects.
+- [side-projects](https://github.com/Qtlas/side-projects): various school and personal projects, mostly network and cyber related.
 
 ---
 
@@ -110,9 +110,9 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Qtlas&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7A1&icon_color=00F7A1&text_color=FFFFFF&ring_color=00F7A1" alt="GitHub Stats" />
+<img src="https://github-stats-extended.vercel.app/api?username=Qtlas&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7A1&icon_color=00F7A1&text_color=FFFFFF&ring_color=00F7A1" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qtlas&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7A1&text_color=FFFFFF" alt="Top Languages" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Qtlas&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7A1&text_color=FFFFFF" alt="Top Languages" />
 
 </div>
 
