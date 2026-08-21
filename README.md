@@ -89,7 +89,24 @@ me.say_hi()
 
 ---
 
-### IV - Github Stats
+### IV - Repositories
+
+<div align="center">
+
+[![CTF](https://img.shields.io/badge/CTF_Write--ups-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Qtlas/CTF)
+[![Exercism-backup](https://img.shields.io/badge/Algo_Exercism-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Qtlas/Exercism-backup)
+[![Leetcode_solutions](https://img.shields.io/badge/Algo_Leetcode-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Qtlas/Leetcode_solutions)
+[![side-projects](https://img.shields.io/badge/Side_Projects-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Qtlas/side-projects)
+
+</div>
+
+- [CTF](https://github.com/Qtlas/CTF): my write-ups from CTF challenges I solved.
+- [Exercism-backup](https://github.com/Qtlas/Exercism-backup) and [Leetcode_solutions](https://github.com/Qtlas/Leetcode_solutions): my solutions to algo problems.
+- [side-projects](https://github.com/Qtlas/side-projects): various school and personal projects.
+
+---
+
+### V - Github Stats
 
 <div align="center">
 
@@ -101,7 +118,7 @@ me.say_hi()
 
 ---
 
-### V - Connect
+### VI - Connect
 
 <div align="center">
 
