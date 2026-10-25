@@ -1,5 +1,13 @@
 <div align="center">
 <img src="https://i.pinimg.com/1200x/fa/6a/e8/fa6ae896901751d3e42118884f44e6f4.jpg">
+</div>
+
+
+---
+
+
+
+<div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7A1&center=true&vCenter=true&random=false&width=600&lines=Web+Security+Enthusiast;CTF+Player;Math+Enjoyer;" alt="Typing SVG" />
 </div>
 
