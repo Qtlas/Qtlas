@@ -1,6 +1,6 @@
 <div align="center">
 
-![calcifer](./images/calcifer.gif)
+![calcifer](./calcifer.gif)
 
 </div>
 
