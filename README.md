@@ -10,7 +10,7 @@
 
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7A1&center=true&vCenter=true&random=false&width=600&lines=Web+Security+Enthusiast;CTF+Player;Math+Enjoyer;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F73718&center=true&vCenter=true&random=false&width=600&lines=Web+Security+Enthusiast;Owls'+castle+lover;Math+Enjoyer;" alt="Typing SVG" />
 </div>
 
 ---
