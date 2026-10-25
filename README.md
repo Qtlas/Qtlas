@@ -35,8 +35,6 @@
 
 </div>
 
-#### Security Tools
-
 <div align="center">
 
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
