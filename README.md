@@ -7,22 +7,16 @@
 
 ### I - About Me
 
-```python
-class SecurityResearcher:
-    def __init__(self):
-        self.name = "Atlas"
-        self.role = "Web Security Enthusiast"
-        self.interests = ["Web Exploitation", "CTF Challenges", "Math sadly..."]
-    
-    def say_hi(self):
-        print("No OSINT pls i hate my middle name")
-
-me = SecurityResearcher()
-me.say_hi()
-```
-
-**Focus Areas:** Bug bounty • Networks • CTF competitions • Development  
-**Current Quest:** Hunting bugs (when i actually found one) and climbing CTF leaderboards
+⠀⠀⠀⠀⠀⠀⢀⣠⣤⣶⣶⡞⡀⣤⣬⣴⠀⠀⢳⣶⣶⣤⣄⡀⠀⠀⠀⠀⠀⠀   atlas@github
+⠀⠀⠀⠀⣠⣾⣿⣿⣿⣿⡇⠀⢸⣿⠿⣿⡇⠀⠀⠸⣿⣿⣿⣿⣷⣦⡀⠀⠀⠀   ---------------------------------------------------------------
+⠀⠀⢠⡾⣫⣿⣻⣿⣽⣿⡇⠀⠈⢿⣧⡝⠟⠀⠀⢸⣿⣿⣿⣿⣿⣟⢷⣄⠀⠀   name .......... Atlas
+⠀⢠⣯⡾⢿⣿⣿⡿⣿⣿⣿⣆⣠⣶⣿⣿⣷⣄⣰⣿⣿⣿⣿⣿⣿⣿⢷⣽⣄⠀   alias ......... Atlas_py
+⢠⣿⢋⠴⠋⣽⠋⡸⢱⣯⡿⣿⠏⣡⣿⣽⡏⠹⣿⣿⣿⡎⢣⠙⢿⡙⠳⡙⢿⠄   role .......... Web Security Enthusiast & CTF Player
+⣰⢣⣃⠀⠊⠀⠀⠁⠘⠏⠁⠁⠸⣶⣿⡿⢿⡄⠈⠀⠁⠃⠈⠂⠀⠑⠠⣈⡈⣧   focus ......... [bug-bounty, web-exploitation, networks, dev]
+⡏⡘⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡥⢄⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢳⢸   learning ...... [pwn, reverse, forensics]
+⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣄⣸⠟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢨   currently ..... hunting bugs, when they let themselves be found
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡴⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈   side_quest .... math, game dev
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡳⣶⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   middle_name ... null  # nice try
 
 ---
 
@@ -60,30 +54,27 @@ me.say_hi()
 
 ### III - CTF Stats
 
-<div align="center">
-
-<!-- ROOT-ME STATS CARD — update values manually when your score changes -->
-<!-- Current: Rank #1233 | 5495 pts | 194/608 challenges | 17 compromissions -->
+<!-- update manually: rank | points | challenges | compromissions | % per category -->
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│  ⚡ Root-Me · Atlas_py                         [ enthusiast ]   │
-├──────────┬──────────┬──────────────────┬──────────────────────  │
-│  RANK    │  POINTS  │  CHALLENGES      │  COMPROMISSIONS        │
-│  #1233   │  5495    │  194 / 608 (31%) │  17                    │
-├──────────┴──────────┴──────────────────┴──────────────────────  │
-│  Web - Client    ████████████████████████████████████████  90%  │
-│  Web - Serveur   ██████████████████████████████████████    84%  │
-│  App - Script    ██████████████████                        45%  │
-│  Réseau          ████████████████                          40%  │
-│  Programmation   █████████                                 24%  │
-│  Stéganographie  ████████████                              29%  │
-│  Cryptanalyse    █████                                     14%  │
-│  Réaliste        █████████                                 24%  │
-│  App - Système   █                                          3%  │
-│  Cracking        ▌                                          2%  │
-│  Forensic        ░                                          0%  │
-└─────────────────────────────────────────────────────────────────┘
+root-me@Atlas_py
+------------------------------------------------
+rank            #1233
+points          5495
+challenges      194 / 608  (31%)
+compromissions  17
+
+Web - Client    ██████████████████████░░░  90%
+Web - Serveur   █████████████████████░░░░  84%
+App - Script    ███████████░░░░░░░░░░░░░░  45%
+Réseau          ██████████░░░░░░░░░░░░░░░  40%
+Stéganographie  ███████░░░░░░░░░░░░░░░░░░  29%
+Programmation   ██████░░░░░░░░░░░░░░░░░░░  24%
+Réaliste        ██████░░░░░░░░░░░░░░░░░░░  24%
+Cryptanalyse    ███░░░░░░░░░░░░░░░░░░░░░░  14%
+App - Système   ░░░░░░░░░░░░░░░░░░░░░░░░░   3%
+Cracking        ░░░░░░░░░░░░░░░░░░░░░░░░░   2%
+Forensic        ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 ```
 </div>
 
