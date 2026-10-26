@@ -90,19 +90,9 @@ Forensic        ░░░░░░░░░░░░░░░░░░░░░�
 
 ### IV - Repositories
 
-<div align="center">
-
-[![CTF](https://img.shields.io/badge/CTF_Write--ups-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Qtlas/CTF)
-[![Exercism-backup](https://img.shields.io/badge/Algo_Exercism-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Qtlas/Exercism-backup)
-[![Leetcode_solutions](https://img.shields.io/badge/Algo_Leetcode-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Qtlas/Leetcode_solutions)
-[![side-projects](https://img.shields.io/badge/Side_Projects-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Qtlas/side-projects)
-
+<div>
+<pre> <b>atlas@github</b>:~$ tree Qtlas/<br> Qtlas/<br> ├── <a href="https://github.com/Qtlas/Bug-Bounty-recon">Bug-Bounty-recon/</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# recon workflow for bug bounty targets<br> ├── <a href="https://github.com/Qtlas/CTF">CTF/</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# write-ups from challenges I solved<br> ├── <a href="https://github.com/Qtlas/side-projects">side-projects/</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# school & personal projects, network & cyber<br> └── algo/<br> &nbsp;&nbsp;&nbsp;&nbsp;├── <a href="https://github.com/Qtlas/Leetcode_solutions">Leetcode_solutions/</a> # leetcode solutions<br> &nbsp;&nbsp;&nbsp;&nbsp;└── <a href="https://github.com/Qtlas/Exercism-backup">Exercism-backup/</a>&nbsp;&nbsp;&nbsp;&nbsp;# exercism solutions </pre>
 </div>
-
-- [CTF](https://github.com/Qtlas/CTF): my write-ups from CTF challenges I solved.
-- [Exercism-backup](https://github.com/Qtlas/Exercism-backup) and [Leetcode_solutions](https://github.com/Qtlas/Leetcode_solutions): my solutions to algo problems.
-- [side-projects](https://github.com/Qtlas/side-projects): various school and personal projects, mostly network and cyber related.
-
 ---
 
 ### V - Github Stats
