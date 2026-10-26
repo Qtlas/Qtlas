@@ -1,6 +1,6 @@
 <div align="center">
 
-![calcifer](./calcifer.gif)
+<img src="calcifer.gif" width="100%">
 
 </div>
 
@@ -93,6 +93,7 @@ Forensic        ░░░░░░░░░░░░░░░░░░░░░�
 <div>
 <pre> <b>atlas@github</b>:~$ tree Qtlas/<br> Qtlas/<br> ├── <a href="https://github.com/Qtlas/Bug-Bounty-recon">Bug-Bounty-recon/</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# recon workflow for bug bounty targets<br> ├── <a href="https://github.com/Qtlas/CTF">CTF/</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# write-ups from challenges I solved<br> ├── <a href="https://github.com/Qtlas/side-projects">side-projects/</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# school & personal projects, network & cyber<br> └── algo/<br> &nbsp;&nbsp;&nbsp;&nbsp;├── <a href="https://github.com/Qtlas/Leetcode_solutions">Leetcode_solutions/</a> # leetcode solutions<br> &nbsp;&nbsp;&nbsp;&nbsp;└── <a href="https://github.com/Qtlas/Exercism-backup">Exercism-backup/</a>&nbsp;&nbsp;&nbsp;&nbsp;# exercism solutions </pre>
 </div>
+
 ---
 
 ### V - Github Stats
